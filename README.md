@@ -10,3 +10,4 @@ Adding hook commit-msg
 [demo2] Adding new commit
 
 [demo3] Adding new commit
+[demo4] Rebase
