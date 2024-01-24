@@ -8,6 +8,7 @@ Adding hook commit-msg
 
 [demoxxx] Adding new commit
 [demo2] Adding new commit
+[demorv] rv
 
 [demo3] Adding new commit
 [demo4] Rebase
