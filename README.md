@@ -12,6 +12,3 @@ Adding hook commit-msg
 
 [demo3] Adding new commit
 [demo4] Rebase
-[demo5] Rebase conflict
-[demo6] Comment 6
-[demo7] Comment 7
